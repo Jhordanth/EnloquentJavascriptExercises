@@ -1,0 +1,19 @@
+{
+  "name": "enloquentjavascriptexercises",
+  "version": "1.0.0",
+  "description": "This is just a repo where i decide to save all the resolved exercise tha i'll do from the book enloquent Javascript as a part of my own study.",
+  "main": "triangleCicle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhordanth/EnloquentJavascriptExercises.git"
+  },
+  "author": "Jhordanth Villamizar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jhordanth/EnloquentJavascriptExercises/issues"
+  },
+  "homepage": "https://github.com/Jhordanth/EnloquentJavascriptExercises#readme"
+}
